@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/Saiprasad16/Saiprasad16/blob/main/text.gif?raw=true)]
+![Header](https://github.com/Saiprasad16/Saiprasad16/blob/main/text.gif?raw=true)
 
 
 ### Languages
