@@ -1,7 +1,4 @@
 
-![Header](https://github.com/Saiprasad16/Saiprasad16/blob/main/text.gif?raw=true)
-
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
