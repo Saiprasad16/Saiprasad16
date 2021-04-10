@@ -1,7 +1,9 @@
 
- <img align="center" alt="GIF" src="code.gif" height="320" />
+<h1 align="center"; font-family="Arial";font-weight=bolder>Hi There 👋, This is Saiprasad Kale</h1>
 
-![Header](https://github.com/Saiprasad16/Saiprasad16/blob/main/Screenshot%20(135).png?raw=true)
+<img align="center" alt="GIF" src="code.gif" height="320" />
+
+
 
 ![](https://komarev.com/ghpvc/?username=Saiprasad16&color=blueviolet&style=plastic&label=PROFILE+VIEWS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saiprasad16hit-counter&count_bg=%23BA1BD4&title_bg=%23555555&icon=&icon_color=blueviolet&title=Hits&edge_flat=false&style=plastic)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Sparkline](https://stars.medv.io/Naereen/badges.svg)
 
