@@ -1,5 +1,5 @@
 
-<h1 align="center"; font-family="Arial";font-weight=bolder>Hi There 👋, This is Saiprasad Kale</h1>
+<h1 align="center"; font-family="Arial";font-weight=bolder>Saiprasad Kale</h1>
 
 <p align="center">
 <img alt="GIF" src="code.gif" height="320">
