@@ -8,6 +8,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Saiprasad16&color=blueviolet&style=plastic&label=PROFILE+VIEWS) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saiprasad16hit-counter&count_bg=%23BA1BD4&title_bg=%23555555&icon=&icon_color=blueviolet&title=Hits&edge_flat=false&style=plastic)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Sparkline](https://stars.medv.io/Naereen/badges.svg)
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-rho-sepia.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/nvi59dfknxfc8lqqafh2rh34v)
+
 
 ### Languages
 
